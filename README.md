@@ -56,3 +56,24 @@ Esse é o schema (model) de Tarefa, utilizado para passar para os métodos que e
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+## Desenvolvido por Marcelo
+
+### 🎯 Fase 1 - Implementos necessarios MVP
+#### Backend
+- [v] **Rotas para crud completo** 
+- [v] **Migration das tabelas** 
+- [v] **Adaptação para MYSQL**
+
+
+### 🎯 Fase 2 - Implementos Pendentes
+- [ ] **Authentication** 
+
+
+#### Frontend
+### 🎯 Fase 1 - Implementos necessarios MVP
+- [v] **Swagger View** 
+
+
+### 🎯 Fase 2 - Implementos Pendentes
+- [ ] **Interface administrativa** com React
